@@ -9,5 +9,5 @@
 - Another Research ..
 -   support
 - 각종 Conference 참여 (NLP conference에 한국인이 있는가 ?)
-- 
+- 영어회화 self training 필요
 
