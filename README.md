@@ -11,3 +11,6 @@
 - 각종 Conference 참여 (NLP conference에 한국인이 있는가 ?)
 - 영어회화 self training 필요
 
+05-19 생각
+- 유튜브...? 악기? 즐겁게 살기
+
